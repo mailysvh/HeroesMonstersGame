@@ -2,7 +2,7 @@
 > **Heroes vs Monsters RPG Console Game with 'ASP.NET'**    
 This a display project for my C# OOP course.  
 
-![Heroes vs Monsters Game Console Final Report] (finalreport.JPG)
+![Heroes vs Monsters Game Console Final Report](finalreport.JPG)
 ## Description:
 
 Role Playing Combat Game to be played in the console.   
@@ -14,9 +14,9 @@ Role Playing Combat Game to be played in the console.
  - Ork  
  
 The backstory is displayed on the console. You are asked the name and race of your character, and the number of adversaries. Depending on your race, you will fight a number of ennemies (Humans and Nains don't fight each other), to kill and/or loot. 
-The players are created randomly. Their statistics are displayed.  
+The players are created randomly (please notice my amazing name generator!). Their statistics are displayed.  
 
-![Heroes vs Monsters Game Console Statistics] (stats.JPG)  
+![Heroes vs Monsters Game Console Statistics](stats.JPG)  
 The fights are randomized based on your character's stats. The fights report are displayed. The final report details the whole story, reported death and winner.
 
 ## Technologies used:
