@@ -40,3 +40,4 @@ Libraries:
 ## Installation
 
 Make sure to download and install the above libraries.
+You will probably need to change the images paths in the printimage function in Jeu.cs
