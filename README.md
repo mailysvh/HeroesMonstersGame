@@ -26,6 +26,7 @@ Libraries:
 - Spectre.Console.ImageSharp  
 - Spectre.Console  
 - Figgle  
+- LinQ  
 
 ## Features to improve:
 
