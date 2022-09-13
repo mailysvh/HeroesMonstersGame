@@ -1,6 +1,6 @@
 # Heroes x Monsters Console Game C#
 > **Heroes vs Monsters RPG Console Game with 'ASP.NET'**    
-This a display project for my C# OOP course.  
+This a showcase project for my C# OOP course.  
 
 ![Heroes vs Monsters Game Console Final Report](finalreport.JPG)
 ## Description:
